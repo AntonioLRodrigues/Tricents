@@ -77,7 +77,6 @@ public class Elementos {
 	private By ConfirmePass = By.id("confirmpassword");
 	private By Comments = By.id("Comments");
 	private By Send = By.id("sendemail");
-	
 	private By ValidaText = By.xpath("/html/body/div[4]/h2");
 	private By Ok = By.cssSelector("body > div.sweet-alert.showSweetAlert.visible > div.sa-button-container > div > button");
 	
